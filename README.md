@@ -1,5 +1,5 @@
 # Heyyo, I'm Kiyesa and this is..
-Official open source version of Kiyesa. Do not share without permission. Shared when it gets verified on Discord. So if you want source then go invite it to your servers.
+Official open source version of Kiyesa. Do not share without permission. Shared when it reaches 10000 servers on Discord. So if you want source then go invite it to your servers.
 <div align="center">
     <a href="https://discord.com/users/774817392509190154" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/774817392509190154/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
